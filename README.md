@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://avatars0.githubusercontent.com/u/71561857?s=400&u=2a87d66b853b5161a5190b222771b09483404ea4&v=4"
-
 # Welcome guys!
 
 ## I am Matheus! Let me present a little about myself :smiley:
