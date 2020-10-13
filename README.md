@@ -1,6 +1,6 @@
 # Welcome guys!
 
-## I am Matheus! Let me present a little about myself :smiley:
+## I am Matheus!
 
 23 years old | :man_student: Control and Automation Engineer | Electronics Technician with emphasis on Industrial Automation | Starting in programming | Loves automation :robot: :heart:
 
@@ -9,4 +9,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgoncalvesdesouza/)](https://www.linkedin.com/in/matheusgoncalvesdesouza/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_5535998139024&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_5535998139024&text=Hello!)
  
-- Thanks for visiting.
+- Thanks for your visit.
